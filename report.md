@@ -15,4 +15,6 @@ Student ID: IDTB110147
 ![Level 6 Screenshot](Screenshot/level6_sticky_bit.jpg)
 
 ## Level 7
-![Level 7 Screenshot](Screenshot/level7_cleanup.jpg)# os-lab-quantum-IDTB110147
+![Level 7 Screenshot](Screenshot/level7_cleanup.jpg)
+
+# os-lab-quantum-IDTB110147
